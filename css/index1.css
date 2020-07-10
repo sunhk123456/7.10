@@ -366,6 +366,14 @@ button {
     padding-right: 30px;
 }
 
+.col-lg-13 {
+    width: 20%;
+}
+
+.col-lg-14 {
+    width: 40%;
+}
+
 .banner2-item {
     float: left;
     width: 234px;
@@ -380,6 +388,7 @@ button {
     height: 370px;
     margin-right: 13px;
     background-color: #fff;
+    float: left;
 }
 
 .banner2-item-title {
